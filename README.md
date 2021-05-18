@@ -1,4 +1,6 @@
 ### Hi there 👋
+<!-- [![love1angel's github stats](https://github-readme-stats.vercel.app/api?username=love1angel)](https://github.com/love1angel/github-readme-stats) -->
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=love1angel">
 
 <!--
 **love1angel/love1angel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
