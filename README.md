@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 -->
 
 <table>
-<tr>
-<td>
+<tr align="center">
+<td align="center">
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=love1angel&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats)]()
+[![My github status](https://github-readme-stats.vercel.app/api?username=love1angel&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats)]()
 
 </td>
-<td>
+<td align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love1angel&layout=compact&langs_count=4)]()
 
