@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </td>
 <td align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love1angel&layout=compact&langs_count=4)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love1angel&hide_langs_below=1&theme=default&line_height=27&layout=compact)]()
 
 </td>
 </tr>
