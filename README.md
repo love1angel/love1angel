@@ -16,4 +16,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+<tr>
+<td>
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=love1angel&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats)]()
+
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love1angel&layout=compact&langs_count=4)]()
+
+</td>
+</tr>
+</table>
+
 - 🌱 I’m currently learning linux kernel
+
+
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=love1angel">
