@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 [![My github status](https://github-readme-stats.vercel.app/api?username=love1angel&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Status)]()
 
 </td>
-<td align="center">
+<!-- <td align="center">
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love1angel&hide_langs_below=1&theme=default&line_height=27&layout=compact)]() -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love1angel&hide_langs_below=1&theme=default&line_height=27&layout=compact)]()
 
-</td>
+</td> -->
 </tr>
 </table>
 
