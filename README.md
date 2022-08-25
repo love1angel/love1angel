@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 </td>
 <td align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love1angel&hide_langs_below=1&theme=default&line_height=27&layout=compact)]()
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love1angel&hide_langs_below=1&theme=default&line_height=27&layout=compact)]() -->
 
 </td>
 </tr>
 </table>
 
-- 🌱 I’m currently learning linux kernel
-
+- 🔭 I’m currently working on Cpp server midware
+- 🌱 I’m currently learning and using linux kernel
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=love1angel">
