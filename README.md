@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <tr align="center">
 <td align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love1angel&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love1angel&theme=blue-green&exclude_repo=love1angel.github.io)
 
 </td>
 </tr>
